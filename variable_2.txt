@@ -1,7 +1,7 @@
- let age = 21;
- let booksToRead = 20;
- let wakeUpTime = "5 am";
- let wastedTime = 5;
- let borrow = 1000;
- let goals = 13;
- let pillow = 8;
+ const age = 21;
+ const booksToRead = 20;
+ const wakeUpTime = "5 am";
+ const wastedTime = 5;
+ const borrow = 1000;
+ const goals = 13;
+ const pillow = 8;
