@@ -90,7 +90,7 @@ let variableY = '20';
 console.log(variableX != variableY); // true. The main reason is that both are number type and string type. So, they are not equal.
 console.log(variableX !== variableY); // true. The main reason is that both are number type and string type. So, they are not equal.
 
-let variableA = hello;
+let variableA = 'hello'; // in the book page no:- 73 , writter wrote hello which is not correct as ther is no quotation mark. so It will show us reference error. Hence, I added quotation mark to make it a string.
 let variableB = 'Hello';
-console.log(variableA == variableB); // false. The main reason is that both are string type but the value is not equal. So, they are not equal.
-console.log(variableA === variableB); // false. The main reason is that both are string type but the value is not equal. So, they are not equal.
+console.log(variableA == variableB); // false. The main reason is the value is not equal.
+console.log(variableA === variableB); // false.Though the value is equal, the value is not equal.
