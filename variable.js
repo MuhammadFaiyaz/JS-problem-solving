@@ -62,7 +62,7 @@ console.log(totalExpenseTime); // 4
 
 const Hello = 'Hello';
 const world = 'World';
-const greeting = hello + '' + world; // concatenation
+const greeting = Hello + '' + world; // concatenation
 console.log(greeting); // HelloWorld
 
 const rice = 153;
