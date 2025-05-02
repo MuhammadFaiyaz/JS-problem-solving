@@ -60,7 +60,7 @@ const perExpense = 15;
 const totalExpenseTime = initialSavings / perExpense; // division
 console.log(totalExpenseTime); // 4
 
-const hello = 'Hello';
+const Hello = 'Hello';
 const world = 'World';
 const greeting = hello + '' + world; // concatenation
 console.log(greeting); // HelloWorld
