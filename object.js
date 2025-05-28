@@ -258,3 +258,5 @@ const food = {
 Object.seal(food);
 food.price = 400;
 console.log(food);
+
+// math

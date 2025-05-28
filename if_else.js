@@ -274,3 +274,11 @@ sunny == false ? console.log('Stay home.') : console.log();
 
 let Expensive = false;
 Expensive == false ? console.log('I will buy this item.') : console.log();
+
+export function add(a, b) {
+  return a + b;
+}
+
+export function Multiply(a, b) {
+  return a * b;
+}
