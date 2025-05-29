@@ -354,6 +354,7 @@ passInExam == true
 6. যদি sunny ভেরিয়েবলের মান false হয়, তাহলে "Stay home"-কে কনসোল লগ করবি।*/
 let sunny = false;
 sunny == false ? console.log('Stay home.') : console.log();
+
 /*
 7. যদি Expensive ভেরিয়েবলের মান false হয়, তাহলে কনসোল লগ করবি "I will buy this item."*/
 let Expensive = false;
